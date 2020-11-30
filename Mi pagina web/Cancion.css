@@ -1,0 +1,46 @@
+body {
+    background-image: url(img/pai.jpg);
+  background-size: 100vw 100vh;
+  background-attachment: fixed;
+}
+
+div.contenido {
+    align-items: center;
+}
+
+h1.titulo {
+    color: red;
+    justify-items: center;
+}
+
+p.letra {
+    color: white;
+}
+
+p.letra2 {
+    color: white;
+}
+
+i.letra3 {
+    color: white;
+}
+
+p.letra4 {
+    color:white;
+}
+
+img {
+  width: 300px;
+  height: 150px;
+  position:fixed;
+ top: 400px;
+  right: 10px;
+}
+
+iframe.video {
+    top: 110px;
+    right: 15px;
+    position: fixed;
+    width: 400px;
+    height: 250px;
+}
